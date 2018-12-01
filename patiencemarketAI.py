@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Alan Jerry Pan, CPA, CSC
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program framework for artificially intelligent "patience" to wait for better deals in a market
